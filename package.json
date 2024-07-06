@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "picocolors": "^1.0.1"
+  },
+  "name": "curso-basico-nodejs",
+  "version": "1.0.0",
+  "description": "entrenamiento con node",
+  "main": "index.js",
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "eslintConfig": {
+    "extends":"standard"
+  },
+  "keywords": [
+    "node",
+    "curso"
+  ],
+  "author": "beatriz garcia",
+  "license": "ISC"
+}
